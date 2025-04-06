@@ -8,9 +8,9 @@ Lex retro non agit – Ustawa nie działa wstecz.
 Ignorantia iuris nocet, ignorantia facti non nocet – Nieznajomość prawa szkodzi, nieznajomość faktu nie szkodzi.
 Ei incumbit probatio, qui dicit non qui negat – Ciężar dowodu spoczywa na tym, kto twierdzi, a nie na tym, kto zaprzecza.
 
-UWAGA
+**UWAGA**
 Wszystkie zasady zasłonięte w ten sposób dotyczą dotyczą funkcji których JESZCZE NIE MA na tym serwerze 
-Ustawa o prawach i obowiązkach członków serwera
+## Ustawa o prawach i obowiązkach członków serwera
 
 Zgodnie z zasadą nulla vitae pars vacat officio (żadna część życia nie jest wolna od obowiązku) powstał ten wpis. Ma on głównie przybliżyć czego się od nich wymaga, dookreślić co należy robić, by być uznanym za aktywnego członka serwera. Dodatkowo są tu wszystkie prawa chroniące, oraz informacje jakie benefity im przysługują. 
 
@@ -58,7 +58,7 @@ wybranym gatunku literackim.
     14.1 Zastępowanie administracji w jej obowiązkach bez ich wiedzy i zgody jest zabronione 
 
 15 Każdy ma prawo do odwołania się od nałożonej przez administrację kary
-Ustawa o strukturze serwera
+## Ustawa o strukturze serwera
 
 2 Rolą serwera jest kształtowanie warsztatu pisarskiego członków. Każdego perspektywa jest równie ważna, dlatego mile widziani są pisarze na każdym poziomie zaawansowania, oraz czytelnicy. 
 
